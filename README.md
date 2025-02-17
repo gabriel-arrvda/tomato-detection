@@ -1,4 +1,4 @@
-# tomato-detection
+# Tomato detection
 
 College project for detecting tomatoes in a large dataset of photos
 
